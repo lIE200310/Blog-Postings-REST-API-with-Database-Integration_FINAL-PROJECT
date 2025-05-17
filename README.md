@@ -8,11 +8,10 @@ Video Demo Link:
 
 ## Technologies Used
 
-| Tool        |
-|-------------|
-
-| **MySQL**   | 
-| **Postman** | 
-| **GitHub**  | 
+- **MySQL**  
+- **Postman**
+- **GitHub**
+- **Node.js**
+- **Express.js**
 
 
